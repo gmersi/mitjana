@@ -1,0 +1,6 @@
+*.[sio] 
+
+*~
+
+.gitignore
+build.xml
