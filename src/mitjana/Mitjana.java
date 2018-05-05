@@ -5,7 +5,7 @@ public class Mitjana {
         Scanner input = new Scanner(System.in);
         float suma = 0;
         float mitjana = 0;
-        float nou_valor;
+        float nou_valor = 0;
         int numero_repeticions = 0;
         String consulta = "s";
         while(consulta.equalsIgnoreCase("s") ) {
